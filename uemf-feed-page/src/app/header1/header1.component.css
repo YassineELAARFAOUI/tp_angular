@@ -1,0 +1,119 @@
+.div_header1{
+    width: 100%;
+    height: fit-content;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div1_header{
+    width: 30%;
+    height: fit-content;
+    background-color: rgb(0, 128, 0);
+    display: flex;
+    justify-content: end;
+}
+.div1_header_unitaire{
+    width: 50%;
+    height: fit-content;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_odd{
+    width: 30%;
+    height: 60px;
+    background-color: rgb(107, 107, 250);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: bold;
+}
+.div_riemas{
+    width: 70%;
+    height: 60px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     color: white;
+    font-size: bold;
+}
+.div2_header{
+    width: 60%;
+    height: fit-content;
+    background-color: rgb(63, 63, 127);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_chaireIa{
+    width: 15%;
+    height: 60px;
+    background-color: rgb(170, 170, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size:larger;
+    margin-left: 4px;
+}
+.webTv_div{
+    width: 85%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size:large;
+}
+.div_web_tv_unitaire{
+    padding-left:4px ;
+}
+.div_web_tv_unitaire2{
+    padding-right:9px ;
+}
+.div3_header{
+    width: 30%;
+    height: 60px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_payementEnligne{
+    width: 40%;
+    height: 60px;
+    background-color: orange;
+    color: white;
+    font-size:large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_contanct_contry{
+    width: 60%;
+    height: 60px;
+    background-color: rgb(63, 63, 127);
+    color: white;
+    font-size:large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div_contact{
+    width: 10%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 6px;
+}
+.div_country{
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    align-items:end; 
+      
+}
